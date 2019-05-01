@@ -28,7 +28,7 @@ public class ExplicitCasting {
 		System.out.println('a'+1);
 		char ch = 98;
 		System.out.println(ch);
-		
+				         
 		
 		
 		
